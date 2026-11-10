@@ -185,7 +185,8 @@ def value_iteration(env, gamma=0.99, theta=1e-8):
 
 ## Output
 
-<img width="561" height="372" alt="image" src="https://github.com/user-attachments/assets/854f52ab-0ce1-4496-bfc4-d4765341e368" />
+<img width="397" height="361" alt="image" src="https://github.com/user-attachments/assets/1b534314-c757-4726-8c46-532d5af6e251" />
+
 
 
 
